@@ -1,1 +1,0 @@
-# rlatkdgus2627.github.io
