@@ -1,7 +1,7 @@
 ---
-title: "Categories2"
+title: "Knowledge"
 layout: category
-permalink: /categories/categories2/
+permalink: /categories/backend_knowledge/
 author_profile: true
 taxonomy: Categories2
 sidebar:
