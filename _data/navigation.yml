@@ -18,11 +18,22 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
-    url: /categories/categories1/
-  - title: "Categories2"
-    url: /categories/categories2/
-  - title: "Categories3"
-    url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/
+  - title: "CS"
+    url: /categories/CS/
+  - title: "Backend"
+    children:
+      - title: "Knowledge"
+        url: /categories/backend_knowledge/
+      - title: "Spring Boot"
+        url: /categories/backend_spring_boot/
+      - title: "Node.js"
+        url: /categories/backend_node_js/
+      - title: "RDB"
+        url: /categories/backend_rdb/
+      - title: "NoSQL"
+        url: /categories/backend_nosql/
+  - title: "PS"
+    url: /categories/PS/
+  - title: "etc"
+    url: /categories/etc/
+
