@@ -1,9 +1,9 @@
 ---
-title: "CS"
+title: "RDB"
 layout: category
-permalink: /categories/CS/
+permalink: /categories/backend_rdb/
 author_profile: true
-taxonomy: CS
+taxonomy: RDB
 sidebar:
   nav: "categories"
 ---

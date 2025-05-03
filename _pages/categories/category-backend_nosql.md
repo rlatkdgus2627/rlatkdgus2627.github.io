@@ -1,9 +1,9 @@
 ---
-title: "CS"
+title: "NoSQL"
 layout: category
-permalink: /categories/CS/
+permalink: /categories/backend_nosql/
 author_profile: true
-taxonomy: CS
+taxonomy: NoSQL
 sidebar:
   nav: "categories"
 ---

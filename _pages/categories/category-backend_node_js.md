@@ -1,9 +1,9 @@
 ---
-title: "CS"
+title: "Node.js"
 layout: category
-permalink: /categories/CS/
+permalink: /categories/backend_node_js/
 author_profile: true
-taxonomy: CS
+taxonomy: Node.js
 sidebar:
   nav: "categories"
 ---

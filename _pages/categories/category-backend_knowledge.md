@@ -3,7 +3,7 @@ title: "Knowledge"
 layout: category
 permalink: /categories/backend_knowledge/
 author_profile: true
-taxonomy: Categories2
+taxonomy: Knowledge
 sidebar:
   nav: "categories"
 ---

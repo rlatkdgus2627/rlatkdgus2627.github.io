@@ -1,9 +1,9 @@
 ---
-title: "CS"
+title: "etc"
 layout: category
-permalink: /categories/CS/
+permalink: /categories/etc/
 author_profile: true
-taxonomy: CS
+taxonomy: etc
 sidebar:
   nav: "categories"
 ---
