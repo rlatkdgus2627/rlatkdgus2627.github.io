@@ -11,7 +11,7 @@ permalink: /categories/backend_knowledge/모놀리식_아키텍처_vs_MSA_vs_모
 
 toc: true
 toc_sticky: true
-toc_level: 1..2
+toc_level: 1
 
 date: 2025-05-03
 last_modified_at: 2025-05-03
